@@ -1,0 +1,11 @@
+print("Learning git and python")
+print("I am very excited")
+print("My students will copy everything i write")
+
+print("    *    ")
+print("   ***   ")
+print(" _______ ")
+print("_________") 
+print("    _    ")
+print("    _    ")
+print("    _    ")

@@ -1,1 +1,1 @@
-# dsb-python
+# Data Science bootcamp
